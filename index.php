@@ -7,6 +7,11 @@
     <title>PHP Test</title>
 </head>
 <body>
-    <?php echo '<p>TrangGucci<p>'; ?>
+    
+    <?php echo '<p>Trang<p>'; 
+    ?>
+    <img src="trang.jpg" alt="trang">
+    <a href="www.google.com">google</a>
+    <a href="profile.html">facebook
 </body>/
 </html>
