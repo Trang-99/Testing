@@ -11,7 +11,7 @@
     <?php echo '<p>Trang<p>'; 
     ?>
     <img src="trang.jpg" alt="trang">
-    <a href="www.google.com">google</a>
+    <a href="https://www.google.com">google</a>
     <a href="profile.html">facebook
 </body>/
 </html>
