@@ -1,9 +1,12 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-<title>PHP Test</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>PHP Test</title>
 </head>
 <body>
-<?php echo '<p>Hello World</p>'; ?>
-</body>
-
+    <?php echo '<p>TrangGucci<p>'; ?>
+</body>/
 </html>
